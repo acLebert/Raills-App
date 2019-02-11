@@ -17,3 +17,12 @@ Laid the groundwork for a mock store application
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
+
+------------------------------------------------------------------------
+Feb 10 2019 Updated ****
+
+* Created a controller to handle customer-centric interactions
+
+* Implemented the default index() action
+
+* Added a call to order() method
